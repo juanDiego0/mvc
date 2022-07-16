@@ -1,0 +1,32 @@
+.panel{
+    position: relative;
+    left: 500px;
+    max-width: 450px;
+    background: green;
+    border-style: double;
+}
+.text-center{
+    position: relative;
+    left: 20px;
+    font-style: oblique;
+}
+table, td, tr{
+    border: 1px;
+    width: 900px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+}
+.btn{
+    background: green;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.new{
+    border: 1px;
+    background: green;
+}
+editar{
+    background: red;
+}
